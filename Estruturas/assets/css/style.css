@@ -34,3 +34,19 @@ button {
     margin: 0 20px;
     font-size: 16pt;
 }
+
+#numPos {
+    color: greenyellow;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
+
+#numNeg {
+    color: darkred;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
